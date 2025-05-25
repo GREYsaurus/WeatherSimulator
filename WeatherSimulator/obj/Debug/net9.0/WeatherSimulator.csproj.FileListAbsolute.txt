@@ -1,0 +1,14 @@
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\bin\Debug\net9.0\WeatherSimulator.exe
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\bin\Debug\net9.0\WeatherSimulator.deps.json
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\bin\Debug\net9.0\WeatherSimulator.runtimeconfig.json
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\bin\Debug\net9.0\WeatherSimulator.dll
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\bin\Debug\net9.0\WeatherSimulator.pdb
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.AssemblyInfoInputs.cache
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.AssemblyInfo.cs
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.csproj.CoreCompileInputs.cache
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.dll
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\refint\WeatherSimulator.dll
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.pdb
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.genruntimeconfig.cache
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\ref\WeatherSimulator.dll
