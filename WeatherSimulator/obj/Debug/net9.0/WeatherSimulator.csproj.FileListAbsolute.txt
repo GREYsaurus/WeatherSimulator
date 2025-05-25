@@ -12,3 +12,4 @@ E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\re
 E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.pdb
 E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.genruntimeconfig.cache
 E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\ref\WeatherSimulator.dll
+E:\REPOS\CSharpMasterclass\WeatherSimulator\WeatherSimulator\obj\Debug\net9.0\WeatherSimulator.sourcelink.json
